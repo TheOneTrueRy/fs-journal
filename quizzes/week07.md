@@ -4,18 +4,18 @@
 **1.** Describe the two ways to bind Data in Vue?
 <!-- enter you answer in the space below -->
 ```
-
+Like a : or double curly type of two ways or like a two-way/one-way type of two ways? Well... there's both.
 ```
 
 **2.** The `SPA` acronym stands for what?
 <!-- enter you answer in the space below -->
 ```
-
+Single Page Application
 ```
 **3.** What are some of the advantages/uses of a `SPA` over a traditional one?
 <!-- enter you answer in the space below -->
 ```
-
+Easy to make, good performance on the site, mobile friendly way to develop an app, and it'ssss I think the only way I've been taught or really know about so that's a pretty good advantage :) 
 ```
 **4.** What does the `onMounted` method in Vue do?
 <!-- enter you answer in the space below -->
