@@ -40,7 +40,7 @@ v-if, v-else-if, and v-else
 **8.** What is the purpose of the `key` attribute when using `v-for` on an element?
 <!-- enter you answer in the space below -->
 ```
-
+Uhhhh from what I could gather reading up on it seems to make it so Vue actually stores the items that it is iterating over rather than the indexes and can help with consistency and actually properly keeping track of things. :)
 ```
 **9.** What is the `<slot>` element and what is it used for?
 <!-- enter you answer in the space below -->
